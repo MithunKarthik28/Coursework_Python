@@ -1,2 +1,2 @@
 # Coursework_Python
-coursework_python
+Repository for assignments of Programming Language Course.
